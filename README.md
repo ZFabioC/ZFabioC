@@ -1,8 +1,8 @@
 ## console.log("Bem, Vindo!")
 
 - 👋 Oi, eu sou @ZFabioC
-- 👀 Tenho interesse em desenvolvimento Front-end.
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
+- 👀 Tenho interesse em desenvolvimento Front-end/Mobile.
+- 🌱 Atualmente estou aprendendo React Native.
 - 📫 Como chegar até mim https://zfabioc.github.io/linktree/
 
 <br>
